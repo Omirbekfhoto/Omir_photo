@@ -23,7 +23,7 @@ h1, h2, h3, h4 {
 
 /* Заголовок */
 header.hero {
-  background-image: url('images/cover.jpg');
+  background-image: url('images/cover.JPG');
   background-size: cover;
   background-position: center;
   height: 100vh;
